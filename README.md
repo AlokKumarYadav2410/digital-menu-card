@@ -30,7 +30,6 @@ This is a command-line project, which means you need to run it in the terminal o
 1. **Compile the Java files**:
     ```sh
     javac *.java
-    ```
 
 2. **Run the application**:
     ```sh
@@ -44,7 +43,6 @@ This is a command-line project, which means you need to run it in the terminal o
 4. The application will display the total bill for your order and thank you for ordering.
 
 ## Example
-    ```sh
     ---------- Welcome to our Digital Menu Card!!! ----------
     Type
     b for breakfast
